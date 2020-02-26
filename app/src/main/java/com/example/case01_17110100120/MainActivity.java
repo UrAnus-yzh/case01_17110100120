@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    private Button btnxianshi,btnyinshi,btncalla;
+    private Button btnxianshi,btnyinshi,btncallaa;
 
 
 }
